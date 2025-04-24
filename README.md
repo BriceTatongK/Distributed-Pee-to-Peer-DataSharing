@@ -1,2 +1,2 @@
-# data-sharing-network-system
-design a distributed peer-to-peer application that implements a system for sharing of constantly updated data on the COVID-19 pandemic.
+# Distributed Peer-to-Peer Application for Real-Time COVID-19 Data Sharing
+This project involves the design and implementation of a distributed peer-to-peer (P2P) application aimed at facilitating the real-time sharing of constantly updated data on the COVID-19 pandemic. The system is built to operate without a centralized server, leveraging the strengths of a decentralized architecture to enhance availability, resilience, and data democratization.
